@@ -42,7 +42,7 @@ The network operates on a private IP addressing scheme using a star topology, wh
 | iPad       | DHCP Assigned| DHCP   |
 |Laptops     | DHCP Assigned| DHCP   |
 
-### 4. Network Settings:
+## 4. Network Settings:
 
 * Subnet Mask: 255.255.255.0
 * Default Gateway: 192.168.1.1
@@ -106,7 +106,7 @@ No sensitive credentials are included in this documentation to maintain security
 The network diagram was created using draw.io to visually represent both physical and logical topology of the home network. 
 
 
-![Network Topology](network.drawio.png)
+![Network Topology](network.drawio(1).png)
 
 ---
 
