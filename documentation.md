@@ -67,7 +67,6 @@ The network operates on a private IP addressing scheme using a star topology, wh
 * DHCP (Dynamic IP assignment)
 * NAT (Network Address Translation for internet access)
 * Wi-Fi (Wireless connectivity)
-* ISP(Internet Service Provider)
 * DNS(Domain Name Resolution), provided by ISP. 
 
 
@@ -104,7 +103,7 @@ No sensitive credentials are included in this documentation to maintain security
 
 ## 8. Network Diagram
 
-The network diagram was created using Cisco Packet Tracer to visually represent both physical and logical topology of the home network. 
+The network diagram was created using draw.io to visually represent both physical and logical topology of the home network. 
 
 
 ![Network Topology](network.drawio.png)
